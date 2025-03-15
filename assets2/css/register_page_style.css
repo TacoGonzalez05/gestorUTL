@@ -1,0 +1,27 @@
+body {
+    background-color: #3d3c3c;
+}
+
+.register-container {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 30px;
+    background: rgba(251, 251, 251, 0.9);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.btn-custom {
+    background-color: #17b88d;
+    color: #ffffff;
+    border-radius: 20px;
+}
+
+.btn-custom:hover {
+    background-color: #479613;
+}
+
+.logo {
+    width: 300px;
+    height: auto;
+}
